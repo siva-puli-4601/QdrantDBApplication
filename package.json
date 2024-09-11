@@ -1,0 +1,23 @@
+{
+  "name": "pinedb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.17.2",
+    "@qdrant/js-client-rest": "^1.11.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "openai": "^4.58.2",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^4.6.82"
+  }
+}
